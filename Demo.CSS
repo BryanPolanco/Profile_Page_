@@ -1,0 +1,39 @@
+h1{
+  color:red;
+  text-align:center;
+  font-family: Verdana;
+}
+button {
+  font-family: Verdana;
+  color: Red;
+  Width: 200px;
+  align-content: center;
+  }
+  .paragraph{
+    font-family: Verdana;
+    text-align:center;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+#me{
+  color: Red;
+  font-family: Verdana;
+  padding-left: 35px;
+
+}
+body{
+  background-color:
+}
+.centered{
+  text-align: center;
+}
+.ButtonCent{
+  text-align: Center;
+}
+.Everything{
+  background-color:#85FF5C;
+  margin:15px;
+  border-style: dashed;
+  border-color: Black;
+  border-width; 3px;
+}

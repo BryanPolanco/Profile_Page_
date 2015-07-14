@@ -1,0 +1,21 @@
+body{
+  font-family: sans-serif;
+}
+h1, h2{
+  background-color: yellow;
+  color: orange;
+  font-family:Oswald, Sans-serif;
+  width:50%;
+}
+.song{
+  color:red;
+  display: none;
+  font-weight:bold;
+}
+ul{
+  border: 5px dotted #0066FF;
+  background-color: #75A3FF;
+  padding:20px;
+  margin-left: 100px;
+
+}
